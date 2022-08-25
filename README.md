@@ -1,3 +1,4 @@
+
 # Calculadora em VueJs
 
 Criando para o aprendizado inicial do framework Vue.Js.
@@ -7,26 +8,28 @@ Criando para o aprendizado inicial do framework Vue.Js.
 **Front-end:** VueJs, Css, JavaScript
 
 
+## Rodando localmente
 
-## Project setup
-```
-yarn install
-```
+Clone o projeto
 
-### Compiles and hot-reloads for development
-```
-yarn serve
+```bash
+  git clone https://github.com/gessikaguimaraes/calculadora
 ```
 
-### Compiles and minifies for production
-```
-yarn build
+Entre no diretório do projeto
+
+```bash
+  cd my-project
 ```
 
-### Lints and fixes files
-```
-yarn lint
+Instale as dependências
+
+```bash
+  yarn install
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Inicie o servidor
+
+```bash
+  yarn serve
+```
