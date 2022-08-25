@@ -1,4 +1,12 @@
-# calculadora
+# Calculadora em VueJs
+
+Criando para o aprendizado inicial do framework Vue.Js.
+
+## Stack utilizada
+
+**Front-end:** VueJs, Css, JavaScript
+
+
 
 ## Project setup
 ```
